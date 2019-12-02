@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+            h1{color:rgb(209, 87, 31);}
+            p{color:rgb(42, 76, 176);}
+            body{background:rgb(240, 240, 240);}
+            #Spain{background-color:rgb(235, 9, 100);}
+            #Zaragoza{background-color:rgb(38, 111, 145);}  
+        </style>
+    </head>
+    <body>
+        <h1>Zaragoza la gran ciudad española</h1>
+        
+        <h2 id="Spain">Spain</h2>
+        <p>Es un pais muy bonito con numerosas ciudades encantadoras</p>
+        
+        <h2 id="Zaragoza">Zaragoza</h2>
+        <p>Es una de las ciudades mas importantes de Zaragoza</p>
+    </body>
+    <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+   
+    <body>
+    <img src="https://www.kasandbox.org/programming-images/seasonal/fireworks-in-sky.png"width="400" height="210">
+     <p>
+     
+    
+        <em>España </em>Es un pais pequeño pero hermoso y único debido a que es un gran pais y una de las ciudades de las cuales hablaremos hoy en este blog es Zaragoza una ciudad mágica<br>
+        Zaragoza es una ciudad con monumentos increibles,no es una de las ciudades mas bonitas de España pero posee un gran encanto.
+        Le exponemos a continuacion una lista de lugares que debe visitar<br></p>
+          <li>Basilica del Pilar </li>
+            <li>Virgen del Pilar </li>
+              <li>Casas de golosinas </li>
+        <h1>Spain</h1>
+        <h2>Zaragoza una ciudad única</h2>
+        <ul>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Basilica_del_Pilar_ZaragozaAragon%28Spain%29-2.jpg/800px-Basilica_del_Pilar_ZaragozaAragon%28Spain%29-2.jpg"alt= "foto de la basilica del Pilar"width="400">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Escultura_de_la_Virgen_del_Pilar%2C_en_la_Bas%C3%ADlica_del_Pilar_de_Zaragoza%2C_Espa%C3%B1a%2C_Spain.jpg/1024px-Escultura_de_la_Virgen_del_Pilar%2C_en_la_Bas%C3%ADlica_del_Pilar_de_Zaragoza%2C_Espa%C3%B1a%2C_Spain.jpg"width="200">
+        </ul>
+        <img src="https://www.kasandbox.org/programming-images/seasonal/gingerbread-houses.png" width="400">
+    </body>
+</html>
